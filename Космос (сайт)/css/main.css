@@ -1,0 +1,126 @@
+main {
+    background-color: #000;
+}
+
+.space {
+    background-image: url(../img/space1.png);
+    height: 70vh;
+    padding-top: 218px;
+    display: flex;
+    flex-direction: column;
+}
+
+#margin {
+    margin-bottom: 67px;
+}
+
+.cyan {
+    width: 416px;
+}
+
+.blue {
+    background-color: #193C94;
+    width: 416px;
+    margin-left: 37px;
+}
+
+#info {
+    height: 140vh;
+}
+
+.ball1 {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.space3 {
+    padding-left: 60px;
+}
+
+.space2 {
+    padding-top: 50px;
+}
+
+.energy {
+    background-image: url(../img/stars.png);
+    height: 80vh;
+    padding-top: 70px;
+}
+
+.energy1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center
+}
+
+.matery {
+    background-image: url(../img/stars.png);
+    height: 80vh;
+    padding-top: 70px;
+}
+
+.matery1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center
+}
+
+#mat {
+    padding-left: 300px;
+}
+
+.table {
+    background-image: url(../img/planet.png);
+    padding-top: 70px;
+    height: 145vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#email {
+    color: #000;
+    margin-top: 0;
+    font-family: "Forum";
+    font-size: 45px;
+    width: 696px;
+    height: 108px;
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    opacity: 0.2;
+    filter: alpha(Opacity=50);
+}
+
+#text {
+    margin-top: 70px;
+    font-family: "Forum";
+    font-size: 45px;
+    width: 696px;
+    height: 506px;
+    background: #fff;
+    opacity: 0.2;
+    filter: alpha(Opacity=50);
+}
+
+#alltable {
+    background-image: url(../img/table.png);
+    padding-top: 60px;
+    width: 760px;
+    height: 777px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.send {
+    width: 298px;
+    height: 59px;
+    margin-top: 15px;
+    margin-left: 225px;
+}

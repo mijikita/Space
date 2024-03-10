@@ -1,0 +1,20 @@
+.mercury {
+    background-image: url(../img/merc5.png);
+    height: 72vh;
+    padding-top: 80px;
+}
+.plan1 {
+    display: flex;
+    align-items: center;
+}
+.merc {
+    padding-left: 87px;
+}
+.merc2 {
+    padding-left: 55px;
+}
+.background {
+    background-image: url(../img/background.png);
+    height: 93vh;
+    padding-top: 60px;
+}

@@ -1,0 +1,48 @@
+.milky {
+    background-image: url(../img/milky.png);
+    height: 100vh;
+    padding-top: 100px;
+}
+.way {
+    display: flex;
+    align-items: center;
+}
+#way {
+    padding-left: 47px;
+}
+.blackhole {
+    background-image: url(../img/way2.png);
+    height: 145vh;
+    padding-top: 100px;
+}
+#text {
+    padding-top: 20px;
+    text-align: right;
+}
+#h3 {
+    color: #9B9B9B;
+}
+.black1 {
+    display: flex;
+}
+.name {
+    background-color: black;
+    height: 85vh;
+    padding-top: 50px;
+}
+#earth {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.earth {
+    padding-top: 50px;
+    text-align: center;
+    background-image: url(../img/last3.png);
+    height: 90vh;
+}
+.earth2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}

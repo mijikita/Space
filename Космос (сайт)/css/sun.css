@@ -1,0 +1,120 @@
+.sun {
+    background-image: url(../img/sun1.png);
+    height: 95vh;
+    padding-top: 80px;
+}
+
+.sun2 {
+    display: flex;
+    align-items: center;
+}
+
+#sun {
+    padding-left: 33px;
+}
+
+.what {
+    width: 503px;
+}
+
+.sistem {
+    width: 437px;
+    margin-left: 58px;
+}
+
+.sistem2 {
+    width: 437px;
+}
+
+.show {
+    padding-top: 40px;
+    background-image: url(../img/show.png);
+    height: 80vh;
+}
+
+.plansis {
+    width: 592px;
+    margin-left: 73px;
+}
+
+.plansis2 {
+    margin-top: 20px;
+    width: 592px;
+}
+
+.sunsistem {
+    padding-top: 60px;
+    background-color: black;
+    height: 75vh;
+}
+
+#sis {
+    display: flex;
+}
+
+#planetphoto {
+    padding-left: 72px;
+}
+
+#sis6 {
+    padding-top: 30px;
+}
+
+.planet {
+    background-image: url(../img/planet2.png);
+    height: 220vh;
+    padding-top: 83px;
+}
+
+#planearth {
+    padding-top: 70px;
+}
+
+#gas {
+    padding-top: 130px;
+}
+
+.a1 {
+    width: 294px;
+    margin-top: 47px;
+}
+
+.a2 {
+    width: 248px;
+    margin-top: 47px;
+    margin-left: 94px;
+}
+
+.a3 {
+    width: 229px;
+    margin-left: 147px;
+    margin-top: 47px;
+}
+
+.a4 {
+    width: 214px;
+    margin-left: 163px;
+    margin-top: 47px;
+}
+
+.a5 {
+    width: 259px;
+}
+
+.a6 {
+    width: 241px;
+    margin-left: 122px;
+}
+
+.a7 {
+    width: 208px;
+    margin-left: 156px;
+}
+
+.a8 {
+    width: 245px;
+    margin-left: 161px;
+}
+#group {
+    padding-top: 65px;
+}

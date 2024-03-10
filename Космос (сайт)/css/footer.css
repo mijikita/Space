@@ -1,0 +1,29 @@
+.footer {
+    background-color: #8EC7FB;
+    height: 55vh;
+}
+#footer {
+    padding-top: 40px;
+    color: #000;
+}
+#foot {
+    margin: 0;
+    color: #000;
+}
+.icon {
+    height: 100px;
+    margin-top:77px;
+}
+h3 {
+    margin-top: 70px;
+    font-size: 45px;
+    font-family: "Forum";
+}
+.soction {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#logo {
+    padding-left: 20px;
+}

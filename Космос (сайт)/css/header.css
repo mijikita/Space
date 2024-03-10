@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Montserrat&family=Podkova&family=Stalinist+One&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.a:hover {
+    color: #7B7B7B;
+}
+
+header {
+    /* background-color: black;  */
+    /* background-image: url(../img/space1.png); */
+    position: fixed;
+    /* Сделайте его липким/фиксированным */
+    top: 0;
+    /* Оставайтесь на вершине */
+    width: 100%;
+    /* Полная ширина */
+    transition: top 0.3s;
+    /* Эффект перехода при скольжении вниз (и вверх) */
+}
+
+.menu {
+    display: flex;
+    align-items: center
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    color: #fff;
+    padding-left: 100px;
+    list-style-type: none;
+    font-size: 50px;
+    font-family: "Podkova";
+}
+
+h1 {
+    margin: 0;
+    color: #fff;
+    font-size: 100px;
+    font-family: "Stalinist One";
+}
+
+p {
+    color: #fff;
+    font-size: 35px;
+    font-family: "Podkova";
+}
+
+h2 {
+    margin: 0;
+    color: #fff;
+    font-size: 73px;
+    font-family: "Stalinist One";
+}
+
+h3 {
+    color: #fff;
+    font-size: 30px;
+    font-family: "Podkova";
+}
+
+button {
+    height: 59px;
+    font-size: 30px;
+    font-family: "Montserrat";
+    border-radius: 30px;
+}
+
+.but {
+    background-color: #99CEFF;
+    color: black;
+}
+
+.but:hover {
+    background-color: #3EA1FD;
+}
+
+.but2 {
+    background-color: #193C94;
+    color: white;
+}
+
+.but2:hover {
+    background-color: #182955;
+}
